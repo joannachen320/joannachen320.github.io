@@ -1,0 +1,70 @@
+WEBVTT
+
+00:00:00.350 --> 00:00:02.447
+Welcome to AI Product Lab.
+
+00:00:02.447 --> 00:00:08.414
+This walkthrough uses simulated data and two local, rule-based prototypes.
+
+00:00:09.714 --> 00:00:11.736
+Open Feedback Studio.
+
+00:00:11.736 --> 00:00:13.758
+No sign-in is needed.
+
+00:00:13.758 --> 00:00:17.706
+Add one anonymous feedback item per line.
+
+00:00:19.006 --> 00:00:25.150
+Load the example, paste your own feedback, or import a text or CSV file.
+
+00:00:26.450 --> 00:00:32.624
+After organizing, review each theme alongside its source IDs and original wording.
+
+00:00:32.624 --> 00:00:35.786
+A summary does not replace human judgment.
+
+00:00:37.086 --> 00:00:42.641
+Edit the proposed need and action, set a priority, and explain your reasoning.
+
+00:00:42.641 --> 00:00:45.846
+Mark the item as reviewed when you are ready.
+
+00:00:47.146 --> 00:00:51.391
+Export a Markdown brief or JSON file for team review.
+
+00:00:51.391 --> 00:00:54.514
+Save your work before leaving the page.
+
+00:00:55.814 --> 00:00:57.697
+Next, open Visit Notes.
+
+00:00:57.697 --> 00:01:03.590
+Add one fact per line, including when it happened and what you observed.
+
+00:01:04.890 --> 00:01:08.581
+Check the fact timeline and missing details.
+
+00:01:08.581 --> 00:01:11.853
+Missing information does not mean none.
+
+00:01:11.853 --> 00:01:14.202
+This tool does not diagnose.
+
+00:01:15.502 --> 00:01:18.875
+Add corrections and confirm the facts yourself.
+
+00:01:18.875 --> 00:01:22.750
+Then export the notes to prepare for your appointment.
+
+00:01:24.050 --> 00:01:28.129
+Choose the interface and output languages separately.
+
+00:01:28.129 --> 00:01:30.746
+Original source text is preserved.
+
+00:01:32.046 --> 00:01:34.007
+Now try your own example.
+
+00:01:34.007 --> 00:01:39.654
+This is an interactive prototype, with no live language model connected.
